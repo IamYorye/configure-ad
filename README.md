@@ -179,4 +179,3 @@ while ($count -lt $NUMBER_OF_ACCOUNTS_TO_CREATE) {
   <p align="center">
   <img src="https://i.imgur.com/HFguOhB.png" height="80%" width="80%" alt="windows start menu shows login user"/>
   </p>
-<p align="right"> Next up <a href="https://github.com/IamYorye/azure-network-protocols"> Azure Network Protocols </a></p>
